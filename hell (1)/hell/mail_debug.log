@@ -1,0 +1,114 @@
+2026-03-14 10:41:07 wp_mail FAILED to raorushi10@gmail.com: Could not instantiate mail function.
+2026-03-14 10:41:07 native mail() to raorushi10@gmail.com: FAILED
+2026-03-14 10:41:07 wp_mail FAILED to teamhelvetica0@gmail.com: Could not instantiate mail function.
+2026-03-14 10:41:07 native mail() to teamhelvetica0@gmail.com: FAILED
+2026-03-14 11:07:44 wp_mail FAILED to raorushi10@gmail.com: Could not instantiate mail function.
+2026-03-14 11:07:45 PHPMailer FAILED to raorushi10@gmail.com: SMTP Error: Could not authenticate.
+2026-03-14 11:07:45 native mail() to raorushi10@gmail.com: FAILED
+2026-03-14 11:07:45 wp_mail FAILED to teamhelvetica0@gmail.com: Could not instantiate mail function.
+2026-03-14 11:07:45 PHPMailer FAILED to teamhelvetica0@gmail.com: SMTP Error: Could not authenticate.
+2026-03-14 11:07:45 native mail() to teamhelvetica0@gmail.com: FAILED
+2026-03-14 11:19:17 ✗ FAILED to raorushi10@gmail.com — SMTP Error: Could not authenticate.
+2026-03-14 11:19:17 fallback mail() to raorushi10@gmail.com: ALSO FAILED
+2026-03-14 11:19:17 ✗ FAILED to teamhelvetica0@gmail.com — SMTP Error: Could not authenticate.
+2026-03-14 11:19:17 fallback mail() to teamhelvetica0@gmail.com: ALSO FAILED
+2026-03-14 11:22:12 ✗ FAILED to teamhelvetica0@gmail.com — SMTP Error: Could not authenticate.
+2026-03-14 11:22:12 fallback mail() to teamhelvetica0@gmail.com: ALSO FAILED
+2026-03-14 11:22:12 ✗ FAILED to teamhelvetica0@gmail.com — SMTP Error: Could not authenticate.
+2026-03-14 11:22:12 fallback mail() to teamhelvetica0@gmail.com: ALSO FAILED
+2026-03-14 11:41:31 ✗ FAILED to raorushi10@gmail.com — SMTP Error: Could not authenticate.
+2026-03-14 11:41:31 fallback mail() to raorushi10@gmail.com: ALSO FAILED
+2026-03-14 11:41:31 ✗ FAILED to teamhelvetica0@gmail.com — SMTP Error: Could not authenticate.
+2026-03-14 11:41:31 fallback mail() to teamhelvetica0@gmail.com: ALSO FAILED
+2026-03-14 11:48:04 ✗ FAILED to raorushi10@gmail.com — SMTP Error: Could not authenticate.
+2026-03-14 11:48:04 fallback mail() to raorushi10@gmail.com: ALSO FAILED
+2026-03-14 11:48:07 ✗ FAILED to teamhelvetica0@gmail.com — SMTP Error: Could not authenticate.
+2026-03-14 11:48:07 fallback mail() to teamhelvetica0@gmail.com: ALSO FAILED
+2026-03-14 11:57:26 ✗ FAILED to raorushi10@gmail.com — SMTP Error: Could not authenticate.
+2026-03-14 11:57:26 fallback mail() to raorushi10@gmail.com: ALSO FAILED
+2026-03-14 11:57:27 ✗ FAILED to teamhelvetica0@gmail.com — SMTP Error: Could not authenticate.
+2026-03-14 11:57:27 fallback mail() to teamhelvetica0@gmail.com: ALSO FAILED
+2026-03-14 13:33:21 ✗ FAILED to raohitesh@rocketmail.com — SMTP Error: Could not authenticate.
+2026-03-14 13:33:21 fallback mail() to raohitesh@rocketmail.com: ALSO FAILED
+2026-03-14 13:33:21 ✗ FAILED to teamhelvetica0@gmail.com — SMTP Error: Could not authenticate.
+2026-03-14 13:33:21 fallback mail() to teamhelvetica0@gmail.com: ALSO FAILED
+2026-03-15 07:28:05 ✗ FAILED to vaghelamanavrajsinh2812@gmail.com — SMTP Error: Could not authenticate.
+2026-03-15 07:28:05 fallback mail() to vaghelamanavrajsinh2812@gmail.com: ALSO FAILED
+2026-03-15 07:28:05 ✗ FAILED to teamhelvetica0@gmail.com — SMTP Error: Could not authenticate.
+2026-03-15 07:28:05 fallback mail() to teamhelvetica0@gmail.com: ALSO FAILED
+2026-03-15 08:18:10 ✗ FAILED to raorushi10@gmail.com — SMTP Error: Could not authenticate.
+2026-03-15 08:18:10 fallback mail() to raorushi10@gmail.com: ALSO FAILED
+2026-03-15 08:18:10 ✗ FAILED to teamhelvetica0@gmail.com — SMTP Error: Could not authenticate.
+2026-03-15 08:18:10 fallback mail() to teamhelvetica0@gmail.com: ALSO FAILED
+2026-03-15 13:16:30 ✗ FAILED to raorushi10@gmail.com — SMTP Error: Could not authenticate.
+2026-03-15 13:16:30 fallback mail() to raorushi10@gmail.com: ALSO FAILED
+2026-03-15 13:16:30 ✗ FAILED to teamhelvetica0@gmail.com — SMTP Error: Could not authenticate.
+2026-03-15 13:16:30 fallback mail() to teamhelvetica0@gmail.com: ALSO FAILED
+2026-03-16 03:42:59 ✗ FAILED to vihaang517@gmail.com — SMTP Error: Could not authenticate.
+2026-03-16 03:42:59 fallback mail() to vihaang517@gmail.com: ALSO FAILED
+2026-03-16 03:42:59 ✗ FAILED to teamhelvetica0@gmail.com — SMTP Error: Could not authenticate.
+2026-03-16 03:42:59 fallback mail() to teamhelvetica0@gmail.com: ALSO FAILED
+2026-03-16 03:55:06 ✗ FAILED to raorushi10@gmail.com — SMTP Error: Could not authenticate.
+2026-03-16 03:55:06 fallback mail() to raorushi10@gmail.com: ALSO FAILED
+2026-03-16 03:55:08 ✗ FAILED to teamhelvetica0@gmail.com — SMTP Error: Could not authenticate.
+2026-03-16 03:55:08 fallback mail() to teamhelvetica0@gmail.com: ALSO FAILED
+2026-03-16 07:43:07 ✗ FAILED to devmistri401@gmail.com — SMTP Error: Could not authenticate.
+2026-03-16 07:43:07 fallback mail() to devmistri401@gmail.com: ALSO FAILED
+2026-03-16 07:43:08 ✗ FAILED to teamhelvetica0@gmail.com — SMTP Error: Could not authenticate.
+2026-03-16 07:43:08 fallback mail() to teamhelvetica0@gmail.com: ALSO FAILED
+2026-03-16 08:42:22 ✗ FAILED to keahavdaultani70@gamil.com — SMTP Error: Could not authenticate.
+2026-03-16 08:42:22 fallback mail() to keahavdaultani70@gamil.com: ALSO FAILED
+2026-03-16 08:42:23 ✗ FAILED to teamhelvetica0@gmail.com — SMTP Error: Could not authenticate.
+2026-03-16 08:42:23 fallback mail() to teamhelvetica0@gmail.com: ALSO FAILED
+2026-03-16 10:08:02 ✗ FAILED to vaghelamanavrajsinh2812@gmail.com — SMTP Error: Could not authenticate.
+2026-03-16 10:08:02 fallback mail() to vaghelamanavrajsinh2812@gmail.com: ALSO FAILED
+2026-03-16 10:08:02 ✗ FAILED to teamhelvetica0@gmail.com — SMTP Error: Could not authenticate.
+2026-03-16 10:08:02 fallback mail() to teamhelvetica0@gmail.com: ALSO FAILED
+2026-04-01 06:11:11 ✗ FAILED to vaghelamanavrajsinh2812@gmail.com — SMTP Error: Could not authenticate.
+2026-04-01 06:11:11 fallback mail() to vaghelamanavrajsinh2812@gmail.com: ALSO FAILED
+2026-04-01 06:11:12 ✗ FAILED to teamhelvetica0@gmail.com — SMTP Error: Could not authenticate.
+2026-04-01 06:11:12 fallback mail() to teamhelvetica0@gmail.com: ALSO FAILED
+2026-04-01 06:27:34 ✗ FAILED to websitegrp6667@gmail.com — SMTP Error: Could not authenticate.
+2026-04-01 06:27:34 fallback mail() to websitegrp6667@gmail.com: ALSO FAILED
+2026-04-01 06:27:34 ✗ FAILED to teamhelvetica0@gmail.com — SMTP Error: Could not authenticate.
+2026-04-01 06:27:34 fallback mail() to teamhelvetica0@gmail.com: ALSO FAILED
+2026-04-01 06:34:02 ✗ FAILED to arnavnanavaty157@gmail.com — SMTP Error: Could not authenticate.
+2026-04-01 06:34:02 fallback mail() to arnavnanavaty157@gmail.com: ALSO FAILED
+2026-04-01 06:34:02 ✗ FAILED to teamhelvetica0@gmail.com — SMTP Error: Could not authenticate.
+2026-04-01 06:34:02 fallback mail() to teamhelvetica0@gmail.com: ALSO FAILED
+2026-04-03 05:17:23 ✗ FAILED to raorushi10@gmail.com — SMTP Error: Could not authenticate.
+2026-04-03 05:17:23 fallback mail() to raorushi10@gmail.com: ALSO FAILED
+2026-04-03 05:17:24 ✗ FAILED to teamhelvetica0@gmail.com — SMTP Error: Could not authenticate.
+2026-04-03 05:17:24 fallback mail() to teamhelvetica0@gmail.com: ALSO FAILED
+2026-04-03 15:13:30 ✗ FAILED to raorushi10@gmail.com — SMTP Error: Could not authenticate.
+2026-04-03 15:13:30 fallback mail() to raorushi10@gmail.com: ALSO FAILED
+2026-04-03 15:13:31 ✗ FAILED to teamhelvetica0@gmail.com — SMTP Error: Could not authenticate.
+2026-04-03 15:13:31 fallback mail() to teamhelvetica0@gmail.com: ALSO FAILED
+2026-04-03 17:42:06 ✗ FAILED to darkf5099@gmail.com — SMTP Error: Could not authenticate.
+2026-04-03 17:42:06 fallback mail() to darkf5099@gmail.com: ALSO FAILED
+2026-04-03 17:42:06 ✗ FAILED to teamhelvetica0@gmail.com — SMTP Error: Could not authenticate.
+2026-04-03 17:42:06 fallback mail() to teamhelvetica0@gmail.com: ALSO FAILED
+2026-04-12 17:02:01  FAILED to vaghelamanavrajsinh2812@gmail.com — SMTP Error: Could not authenticate.
+2026-04-12 17:02:01 fallback mail() to vaghelamanavrajsinh2812@gmail.com: ALSO FAILED
+2026-04-12 17:02:01  FAILED to teamhelvetica0@gmail.com — SMTP Error: Could not authenticate.
+2026-04-12 17:02:01 fallback mail() to teamhelvetica0@gmail.com: ALSO FAILED
+2026-04-14 09:56:10  FAILED to vaghelamanavrajsinh2812@gmail.com — SMTP Error: Could not authenticate.
+2026-04-14 09:56:10 fallback mail() to vaghelamanavrajsinh2812@gmail.com: ALSO FAILED
+2026-04-14 09:56:10  FAILED to teamhelvetica0@gmail.com — SMTP Error: Could not authenticate.
+2026-04-14 09:56:10 fallback mail() to teamhelvetica0@gmail.com: ALSO FAILED
+2026-04-18 09:09:01  FAILED to raorushi10@gmail.com — SMTP Error: Could not authenticate.
+2026-04-18 09:09:01 fallback mail() to raorushi10@gmail.com: ALSO FAILED
+2026-04-18 09:09:02  FAILED to teamhelvetica0@gmail.com — SMTP Error: Could not authenticate.
+2026-04-18 09:09:02 fallback mail() to teamhelvetica0@gmail.com: ALSO FAILED
+2026-04-23 05:00:50  FAILED to vaghelamanavrajsinh2812@gmail.com — SMTP Error: Could not authenticate.
+2026-04-23 05:00:50 fallback mail() to vaghelamanavrajsinh2812@gmail.com: ALSO FAILED
+2026-04-23 05:00:50  FAILED to teamhelvetica0@gmail.com — SMTP Error: Could not authenticate.
+2026-04-23 05:00:50 fallback mail() to teamhelvetica0@gmail.com: ALSO FAILED
+2026-04-23 06:44:16  FAILED to raorushi10@gmail.com — SMTP Error: Could not authenticate.
+2026-04-23 06:44:16 fallback mail() to raorushi10@gmail.com: ALSO FAILED
+2026-04-23 06:44:17  FAILED to teamhelvetica0@gmail.com — SMTP Error: Could not authenticate.
+2026-04-23 06:44:17 fallback mail() to teamhelvetica0@gmail.com: ALSO FAILED
+2026-05-10 14:50:18  FAILED to rao75hitesh@gmail.com — SMTP Error: Could not authenticate.
+2026-05-10 14:50:18 fallback mail() to rao75hitesh@gmail.com: ALSO FAILED
+2026-05-10 14:50:19  FAILED to teamhelvetica0@gmail.com — SMTP Error: Could not authenticate.
+2026-05-10 14:50:19 fallback mail() to teamhelvetica0@gmail.com: ALSO FAILED

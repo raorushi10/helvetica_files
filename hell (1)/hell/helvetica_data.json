@@ -1,0 +1,422 @@
+{
+    "users": {
+        "raorushi10@gmail.com": {
+            "name": "rao rushi",
+            "email": "raorushi10@gmail.com",
+            "pass": "$2y$10$p9LMYvY\/ji6FLEBGQGeZae.qGJjTi7WN.ykQmNLh5DRjdJzXjRbau",
+            "created": "2026-03-14 10:29:31"
+        },
+        "helveticaworld@gmail.com": {
+            "name": "helu",
+            "email": "helveticaworld@gmail.com",
+            "pass": "$2y$10$Scm2OP8zMfNQyscpg5aVjOXEDpf4VoEOzIosH37BCn\/HRHqfJhVtC",
+            "created": "2026-03-14 11:20:55"
+        },
+        "keshavdaultani70@gmail.com": {
+            "name": "keshav",
+            "email": "keshavdaultani70@gmail.com",
+            "pass": "$2y$10$pAtEi5iJk8F\/lGfdnyfSiuhgO80wePmfMSkz\/wGkPfnYDmPL4SPdS",
+            "created": "2026-03-16 08:48:29"
+        },
+        "vaghelamanavrajsinh2812@gmail.com": {
+            "name": "Manavraj",
+            "email": "vaghelamanavrajsinh2812@gmail.com",
+            "pass": "$2y$10$y24xdHHSgq2ZKWh0hFpGpuFJxg8aK36m.e71Tuv5a\/cFcp1Pi\/pkC",
+            "created": "2026-04-01 06:09:44"
+        },
+        "arnavnanavaty157@gmail.com": {
+            "name": "Arnav",
+            "email": "arnavnanavaty157@gmail.com",
+            "pass": "$2y$10$jJzjcXDO86ovRVIuozQHNOXhdxf2I.TGxaG.kZm7mMscY8PF1vD0.",
+            "created": "2026-04-01 06:38:06"
+        },
+        "vaghelamanavrajsinh59@gmail.com": {
+            "name": "Manavraj sinh vaghela",
+            "email": "vaghelamanavrajsinh59@gmail.com",
+            "pass": "$2y$10$A30txc5yORIbBE0Fhihal.IS\/CNCvTx1eu4QKJTxFGmki1qaQSVuC",
+            "created": "2026-04-11 10:38:15"
+        },
+        "vaghelamanavrajsinh059@gmail.com": {
+            "name": "Manavraj sinh vaghela",
+            "email": "vaghelamanavrajsinh059@gmail.com",
+            "pass": "$2y$10$KaxQl6d5w5O5h85FbE6pF.nzCCplX6xq9rPe4OLZivFAS3I8vCjk6",
+            "created": "2026-04-23 04:58:30"
+        },
+        "teamhelvetica0@gmail.com": {
+            "name": "Rushi",
+            "email": "teamhelvetica0@gmail.com",
+            "pass": "$2y$10$AV5iIvAiJoZ7rrIJHSw0yOUFZINpUty2NWnkjOSIKQT6xa.SAI8IC",
+            "created": "2026-04-23 06:16:07"
+        }
+    },
+    "orders": [
+        {
+            "order_id": "HV-CBD79321",
+            "name": "Rushi Rao",
+            "email": "raorushi10@gmail.com",
+            "phone": "+918490986234",
+            "address": "G\/38, Ahmedabad \u2013 382443",
+            "payment": "UPI",
+            "items": "Noir Bomber (Jacket) x1 = Rs.3499\r\nArch Logo Hoodie (S) x2 = Rs.4398",
+            "total": "\u20b9 7,897",
+            "status": "Confirmed",
+            "created_at": "14 Mar 2026, 10:26 AM"
+        },
+        {
+            "order_id": "HV-91516F90",
+            "name": "Rushi Rao",
+            "email": "raorushi10@gmail.com",
+            "phone": "+918490986234",
+            "address": "G\/38, Ahmedabad \u2013 382443",
+            "payment": "UPI",
+            "items": "Helvetica Oxford (Shirt) x1 = Rs.1799\r\nUrban Zip Sweatshirt (S) x1 = Rs.2499",
+            "total": "\u20b9 4,298",
+            "status": "Confirmed",
+            "created_at": "14 Mar 2026, 10:41 AM"
+        },
+        {
+            "order_id": "HV-9DAA749B",
+            "name": "Rushi Rao",
+            "email": "raorushi10@gmail.com",
+            "phone": "+918490986234",
+            "address": "G\/38, Ahmedabad \u2013 382443",
+            "payment": "UPI",
+            "items": "Helvetica Oxford Shirt (L) x1 = Rs.1799",
+            "total": "\u20b9 1,799",
+            "status": "Confirmed",
+            "created_at": "14 Mar 2026, 11:07 AM"
+        },
+        {
+            "order_id": "HV-C9F62297",
+            "name": "Rushi Rao",
+            "email": "raorushi10@gmail.com",
+            "phone": "+918490986234",
+            "address": "G\/38, Ahmedabad \u2013 382443",
+            "payment": "UPI",
+            "items": "Helvetica Oxford Shirt (M) x1 = Rs.1799",
+            "total": "\u20b9 1,799",
+            "status": "Confirmed",
+            "created_at": "14 Mar 2026, 11:19 AM"
+        },
+        {
+            "order_id": "HV-2509F24A",
+            "name": "Sydnee Harris",
+            "email": "teamhelvetica0@gmail.com",
+            "phone": "+918490986234",
+            "address": "G\/38, Ahmedabad \u2013 382443",
+            "payment": "COD",
+            "items": "Arch Logo (Hoodie) x2 = Rs.4398\r\nHelvetica Oxford Shirt (XL) x1 = Rs.1799\r\nNoir Bomber (Jacket) x2 = Rs.6998\r\nUrban Zip (Sweatshirt) x1 = Rs.2499\r\nClassic Drop (Oversized Tee) x1 = Rs.1299\r\nChain Necklace (Jewelry) x1 = Rs.1499\r\nStreet Watch (Timepiece) x1 = Rs.3299",
+            "total": "\u20b9 21,791",
+            "status": "Confirmed",
+            "created_at": "14 Mar 2026, 11:22 AM"
+        },
+        {
+            "order_id": "HV-BTFSTKRP",
+            "name": "Rushi Rao",
+            "email": "raorushi10@gmail.com",
+            "phone": "+918490986234",
+            "address": "G\/38, Ahmedabad \u2013 382443",
+            "payment": "UPI",
+            "items": "Arch Logo (Hoodie) x1 = Rs.2199\r\nHelvetica Oxford Shirt (S) x1 = Rs.1799",
+            "total": "\u20b9 3,998",
+            "status": "Confirmed",
+            "created_at": "14 Mar 2026, 11:41 AM"
+        },
+        {
+            "order_id": "HV-VD4ELC9E",
+            "name": "Rushi Rao",
+            "email": "raorushi10@gmail.com",
+            "phone": "+918490986234",
+            "address": "G\/38, Ahmedabad \u2013 382443",
+            "payment": "UPI",
+            "items": "Wide Leg Pants (S) x2 = Rs.4598",
+            "total": "\u20b9 4,598",
+            "status": "Confirmed",
+            "created_at": "14 Mar 2026, 11:48 AM"
+        },
+        {
+            "order_id": "HV-QHSG9GAG",
+            "name": "Maloo multimeter",
+            "email": "raorushi10@gmail.com",
+            "phone": "+918490986234",
+            "address": "G\/38, Ahmedabad \u2013 382443",
+            "payment": "COD",
+            "items": "Essential Oversized Tee (XS) x1 = Rs.1299",
+            "total": "\u20b9 1,299",
+            "status": "Confirmed",
+            "created_at": "14 Mar 2026, 11:57 AM"
+        },
+        {
+            "order_id": "HV-B2I38TN7",
+            "name": "Hitesh rao",
+            "email": "raohitesh@rocketmail.com",
+            "phone": "9104926034",
+            "address": "38\/G Ambika tenament, Isanpur \u2013 382443",
+            "payment": "UPI",
+            "items": "Essential Oversized Tee (XL) x1 = Rs.1299",
+            "total": "\u20b9 1,299",
+            "status": "Confirmed",
+            "created_at": "14 Mar 2026, 01:33 PM"
+        },
+        {
+            "order_id": "HV-5QUGHFT2",
+            "name": "Manavraj sinh vaghela",
+            "email": "vaghelamanavrajsinh2812@gmail.com",
+            "phone": "7574994277",
+            "address": "House no.175,sathal,dholka, Dholka,Ahmedabad \u2013 382225",
+            "payment": "UPI",
+            "items": "Essential Oversized Tee (L) x1 = Rs.1299",
+            "total": "\u20b9 1,299",
+            "status": "Confirmed",
+            "created_at": "15 Mar 2026, 07:28 AM"
+        },
+        {
+            "order_id": "HV-J6MXCRVC",
+            "name": "Rushi Rao",
+            "email": "raorushi10@gmail.com",
+            "phone": "+918490986234",
+            "address": "G\/38, Ahmedabad \u2013 382443",
+            "payment": "UPI",
+            "items": "H-Logo Cap (One Size) x1 = Rs.799",
+            "total": "\u20b9 799",
+            "status": "Confirmed",
+            "created_at": "15 Mar 2026, 08:18 AM"
+        },
+        {
+            "order_id": "HV-DTT7VRTG",
+            "name": "Rushi Rao",
+            "email": "raorushi10@gmail.com",
+            "phone": "+918490986234",
+            "address": "G\/38, Ahmedabad \u2013 382443",
+            "payment": "UPI",
+            "items": "Tech Trousers (M) x1 = Rs.1899",
+            "total": "\u20b9 1,899",
+            "status": "Confirmed",
+            "created_at": "15 Mar 2026, 01:16 PM"
+        },
+        {
+            "order_id": "HV-EBFRNOI7",
+            "name": "vihaan Gandhi",
+            "email": "vihaang517@gmail.com",
+            "phone": "8490986234",
+            "address": "Ishan Residency, Ahmedabad \u2013 382424",
+            "payment": "UPI",
+            "items": "Essential Oversized Tee (XS) x1 = Rs.1299\r\nCargo Shorts (S) x1 = Rs.1499",
+            "total": "\u20b9 2,798",
+            "status": "Confirmed",
+            "created_at": "16 Mar 2026, 03:42 AM"
+        },
+        {
+            "order_id": "HV-EX8TJXLU",
+            "name": "Rushi Rao",
+            "email": "raorushi10@gmail.com",
+            "phone": "+918490986234",
+            "address": "G\/38, Ahmedabad \u2013 382443",
+            "payment": "UPI",
+            "items": "Essential Oversized Tee (XS) x1 = Rs.1299",
+            "total": "\u20b9 1,299",
+            "status": "Confirmed",
+            "created_at": "16 Mar 2026, 03:55 AM"
+        },
+        {
+            "order_id": "HV-YTR2OUJP",
+            "name": "Dev Mistri",
+            "email": "devmistri401@gmail.com",
+            "phone": "+916354864063",
+            "address": "61, Vishwakarma Nagar opp labh Jewllers vejalpur Ahmedabad, Ahmedabad \u2013 380051",
+            "payment": "COD",
+            "items": "Tech Trousers (Performance Wear) x1 = Rs.1899\r\nTech Trousers (M) x1 = Rs.1899",
+            "total": "\u20b9 3,798",
+            "status": "Confirmed",
+            "created_at": "16 Mar 2026, 07:43 AM"
+        },
+        {
+            "order_id": "HV-5P7ENEH3",
+            "name": "Keshav Daultani",
+            "email": "keahavdaultani70@gamil.com",
+            "phone": "8905897730",
+            "address": "3\/4khandu colony, Banswara \u2013 327001",
+            "payment": "UPI",
+            "items": "Noir Bomber (Jacket) x1 = Rs.3499",
+            "total": "\u20b9 3,499",
+            "status": "Confirmed",
+            "created_at": "16 Mar 2026, 08:42 AM"
+        },
+        {
+            "order_id": "HV-32GFRUS4",
+            "name": "Manavraj sinh Vaghela",
+            "email": "vaghelamanavrajsinh2812@gmail.com",
+            "phone": "7574994277",
+            "address": "House no.175,sathal,dholka, Dholka,Ahmedabad \u2013 382225",
+            "payment": "UPI",
+            "items": "Essential Oversized Tee (S) x1 = Rs.1299",
+            "total": "\u20b9 1,299",
+            "status": "Confirmed",
+            "created_at": "16 Mar 2026, 10:08 AM"
+        },
+        {
+            "order_id": "HV-RG0JM8T6",
+            "name": "Manavraj",
+            "email": "vaghelamanavrajsinh2812@gmail.com",
+            "phone": "7574994277",
+            "address": "fghjkl;, kl;\\' \u2013 345678",
+            "payment": "COD",
+            "items": "Noir Bomber (Jacket) x1 = Rs.3499",
+            "total": "\u20b9 3,499",
+            "status": "Confirmed",
+            "created_at": "01 Apr 2026, 06:11 AM"
+        },
+        {
+            "order_id": "HV-X4I8DLMA",
+            "name": "tjhiyfhgjh",
+            "email": "websitegrp6667@gmail.com",
+            "phone": "2548964723",
+            "address": "kilbytfjhvuttdsdghch, 9o[ukuytytfjh \u2013 380055",
+            "payment": "COD",
+            "items": "Cargo Shorts (M) x1 = Rs.1499",
+            "total": "\u20b9 1,499",
+            "status": "Confirmed",
+            "created_at": "01 Apr 2026, 06:27 AM"
+        },
+        {
+            "order_id": "HV-BL2FO3P5",
+            "name": "Arnav Nanavaty",
+            "email": "arnavnanavaty157@gmail.com",
+            "phone": "8460383244",
+            "address": "10, bhagirath Banglows, opp - vijay  park BRTS, krishna nagar, ahmedabad, surat \u2013 635315",
+            "payment": "COD",
+            "items": "Street Watch (One Size) x12 = Rs.39588",
+            "total": "\u20b9 39,588",
+            "status": "Confirmed",
+            "created_at": "01 Apr 2026, 06:34 AM"
+        },
+        {
+            "order_id": "HV-SG2U0ZVD",
+            "name": "Rushi Rao",
+            "email": "raorushi10@gmail.com",
+            "phone": "+918490986234",
+            "address": "G\/38, Ahmedabad \u2013 382443",
+            "payment": "COD",
+            "items": "Arch Logo (Hoodie) x1 = Rs.2199",
+            "total": "\u20b9 2,199",
+            "status": "Confirmed",
+            "created_at": "03 Apr 2026, 05:17 AM"
+        },
+        {
+            "order_id": "HV-NT7U8TP3",
+            "name": "Sydnee Harris",
+            "email": "raorushi10@gmail.com",
+            "phone": "+918490986234",
+            "address": "Nr Busstand Isanpur G\/38 Ambika Tenament, Ahemdabad \u2013 382443",
+            "payment": "COD",
+            "items": "Stud Earrings (One Size) x1 = Rs.699",
+            "total": "\u20b9 699",
+            "status": "Confirmed",
+            "created_at": "03 Apr 2026, 03:13 PM"
+        },
+        {
+            "order_id": "HV-2ICH1P8Z",
+            "name": "Rehan shaikh",
+            "email": "darkf5099@gmail.com",
+            "phone": "7990527365",
+            "address": "Duplex no 1 rose residency near aksha masjid opp lali vala farm Sarkhej, Ahmedabad \u2013 380055",
+            "payment": "COD",
+            "items": "H-Logo Cap (One Size) x1 = Rs.799",
+            "total": "\u20b9 799",
+            "status": "Confirmed",
+            "created_at": "03 Apr 2026, 05:42 PM"
+        },
+        {
+            "order_id": "HV-E53WIR17",
+            "name": "Manavraj sinh Vaghela",
+            "email": "vaghelamanavrajsinh2812@gmail.com",
+            "phone": "7574994277",
+            "address": "House no.175,sathal,dholka, Dholka,Ahmedabad \u2013 382225",
+            "payment": "COD",
+            "items": "Denim Shorts (34) x1 = Rs.1599",
+            "total": "\u20b9 1,599",
+            "status": "Confirmed",
+            "created_at": "12 Apr 2026, 05:02 PM"
+        },
+        {
+            "order_id": "HV-EN9MPJ46",
+            "name": "Manavraj sinh Vaghela",
+            "email": "vaghelamanavrajsinh2812@gmail.com",
+            "phone": "7574994277",
+            "address": "House no.175,sathal,dholka, Dholka,Ahmedabad \u2013 382225",
+            "payment": "COD",
+            "items": "Mini Sling Bag (One Size) x1 = Rs.999",
+            "total": "\u20b9 999",
+            "status": "Confirmed",
+            "created_at": "14 Apr 2026, 09:56 AM"
+        },
+        {
+            "order_id": "HV-KQ9CNIIA",
+            "name": "Rushi Rao",
+            "email": "raorushi10@gmail.com",
+            "phone": "+918490986234",
+            "address": "Nr Busstand Isanpur G\/38 Ambika Tenament, Ahmedabad \u2013 382443",
+            "payment": "UPI",
+            "items": "Relaxed Fit Jeans (28) x1 = Rs.2149",
+            "total": "\u20b9 2,149",
+            "status": "Confirmed",
+            "created_at": "18 Apr 2026, 09:09 AM"
+        },
+        {
+            "order_id": "HV-3NFTKZ63",
+            "name": "Manavraj sinh Vaghela",
+            "email": "vaghelamanavrajsinh2812@gmail.com",
+            "phone": "7574994277",
+            "address": "House no.175,sathal,dholka, Dholka,Ahmedabad \u2013 382225",
+            "payment": "COD",
+            "items": "Classic Drop Oversized Tee (M) x1 = Rs.1299",
+            "total": "\u20b9 1,299",
+            "status": "Confirmed",
+            "created_at": "23 Apr 2026, 05:00 AM"
+        },
+        {
+            "order_id": "HV-7UOOEVOG",
+            "name": "rushikapapa",
+            "email": "raorushi10@gmail.com",
+            "phone": "84909 86234",
+            "address": "prena bunglowsssss saaraspur, ahmedabad \u2013 380018",
+            "payment": "COD",
+            "items": "Minimal Logo (Tee) x1 = Rs.1099",
+            "total": "\u20b9 1,099",
+            "status": "Confirmed",
+            "created_at": "23 Apr 2026, 06:44 AM"
+        },
+        {
+            "order_id": "HV-A4QY4U4T",
+            "name": "Sanjay",
+            "email": "rao75hitesh@gmail.com",
+            "phone": "9104926034",
+            "address": "Virat Nagar Road, Ahmedabad \u2013 380008",
+            "payment": "COD",
+            "items": "Classic Drop Tee (XL) x1 = Rs.1199",
+            "total": "\u20b9 1,199",
+            "status": "Confirmed",
+            "created_at": "10 May 2026, 02:50 PM"
+        }
+    ],
+    "user_orders": {
+        "raorushi10@gmail.com": [
+            "HV-91516F90",
+            "HV-9DAA749B",
+            "HV-C9F62297",
+            "HV-BTFSTKRP",
+            "HV-VD4ELC9E",
+            "HV-QHSG9GAG",
+            "HV-J6MXCRVC"
+        ],
+        "helveticaworld@gmail.com": [
+            "HV-2509F24A"
+        ],
+        "vaghelamanavrajsinh2812@gmail.com": [
+            "HV-RG0JM8T6"
+        ],
+        "vaghelamanavrajsinh059@gmail.com": [
+            "HV-3NFTKZ63"
+        ]
+    }
+}
