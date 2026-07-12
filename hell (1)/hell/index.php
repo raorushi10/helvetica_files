@@ -1,7 +1,9 @@
-  <?php
+<?php
   /* Template Name: Custom Project Page */
 
   session_start();
+  require_once __DIR__ . '/maintenance-check.php';
+  sa_maintenance_gate();
 
   //  PAGE ROUTING 
   $current_page = isset($_GET['page']) ? trim($_GET['page']) : 'home';

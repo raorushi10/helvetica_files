@@ -1,6 +1,7 @@
 <?php
 /* HELVETICA ADMIN PANEL */
 session_start();
+require_once __DIR__ . '/maintenance-check.php';
 
 define('ADMIN_EMAIL', 'teamhelvetica0@gmail.com');
 define('ADMIN_PASS',  'helvetica@team');
@@ -1212,6 +1213,12 @@ tr:hover td{background:rgba(182,255,59,.04);}
     <div class="chart-card">
       <h3 style="margin-bottom:2rem;">⚙️ Store Configuration</h3>
       <div style="display:flex;flex-direction:column;gap:1.4rem;">
+        <?php $sa_settings = sa_load_settings(); ?>
+        <div style="padding:1.4rem;background:<?php echo !empty($sa_settings['maintenance_mode']) ? '#fff0f0' : 'var(--surface)'; ?>;border:1.5px solid <?php echo !empty($sa_settings['maintenance_mode']) ? '#f5c6c6' : 'var(--border)'; ?>;">
+          <div style="font-size:1rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-bottom:.4rem;font-family:var(--mono);">Maintenance Mode</div>
+          <div style="font-size:1.4rem;font-weight:600;color:<?php echo !empty($sa_settings['maintenance_mode']) ? '#c00' : '#2e7d32'; ?>;"><?php echo !empty($sa_settings['maintenance_mode']) ? '● ON — storefront offline to visitors' : '● OFF — storefront live'; ?></div>
+          <div style="font-size:1.1rem;color:var(--muted);margin-top:.6rem;">Toggle this from the <a href="superadmin.php" target="_blank" style="color:var(--dark);font-weight:700;text-decoration:underline;">Super Admin Panel</a>.</div>
+        </div>
         <div style="padding:1.4rem;background:var(--surface);border:1.5px solid var(--border);">
           <div style="font-size:1rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-bottom:.4rem;font-family:var(--mono);">Owner Email</div>
           <div style="font-size:1.4rem;font-weight:600;"><?php echo ADMIN_EMAIL; ?></div>
@@ -1254,6 +1261,7 @@ tr:hover td{background:rgba(182,255,59,.04);}
           <a href="/" target="_blank" class="btn btn-accent" style="justify-content:center;">View Storefront ↗</a>
           <a href="?tab=orders&export=csv" class="btn btn-dark" style="justify-content:center;">Export Orders CSV</a>
           <a href="?tab=subscribers&export=csv" class="btn btn-dark" style="justify-content:center;">Export Subscribers CSV</a>
+          <a href="superadmin.php" target="_blank" class="btn btn-blue" style="justify-content:center;">Super Admin Panel ↗</a>
           <a href="?admin_logout=1" class="btn btn-red" style="justify-content:center;border:none;">Logout Admin</a>
         </div>
       </div>
